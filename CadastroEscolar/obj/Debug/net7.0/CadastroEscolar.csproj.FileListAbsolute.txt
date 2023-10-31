@@ -1,0 +1,14 @@
+C:\dev\CadastroEscolar\bin\Debug\net7.0\CadastroEscolar.exe
+C:\dev\CadastroEscolar\bin\Debug\net7.0\CadastroEscolar.deps.json
+C:\dev\CadastroEscolar\bin\Debug\net7.0\CadastroEscolar.runtimeconfig.json
+C:\dev\CadastroEscolar\bin\Debug\net7.0\CadastroEscolar.dll
+C:\dev\CadastroEscolar\bin\Debug\net7.0\CadastroEscolar.pdb
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.AssemblyInfoInputs.cache
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.AssemblyInfo.cs
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.csproj.CoreCompileInputs.cache
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.dll
+C:\dev\CadastroEscolar\obj\Debug\net7.0\refint\CadastroEscolar.dll
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.pdb
+C:\dev\CadastroEscolar\obj\Debug\net7.0\CadastroEscolar.genruntimeconfig.cache
+C:\dev\CadastroEscolar\obj\Debug\net7.0\ref\CadastroEscolar.dll
