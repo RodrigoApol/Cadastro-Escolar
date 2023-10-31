@@ -1,4 +1,4 @@
-# Sistema Cadastro Escolar com C# e .NET
+# Sistema de Cadastro Escolar com C# e .NET
 
 Este projeto, desenvolvido em C#, permite o cadastro de alunos em três cursos distintos: Inglês, Informática e Administração.
 
