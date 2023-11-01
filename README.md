@@ -4,7 +4,7 @@ Este projeto, desenvolvido em C#, permite o cadastro de alunos em três cursos d
 
 ## Recursos disponíveis neste projeto:
 
-* Classes dedicas para "Aluno" e "Curso"
+* Classes dedicadas para "Aluno" e "Curso"
 * Método para adicionar alunos no cursos desejados
 * Método para remover alunos dos cursos desejados
 * Método para listar alunos cadastrados nos cursos
