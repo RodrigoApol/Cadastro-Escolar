@@ -11,8 +11,8 @@ internal class Program
         List<Curso> cursos = new()
         {
         new(1, "Inglês", new List<Aluno>()),
-        new Curso(2, "Informática", new List<Aluno>()),
-        new Curso(3, "ADM", new List<Aluno>())
+        new(2, "Informática", new List<Aluno>()),
+        new(3, "ADM", new List<Aluno>())
         };
 
         Menu(cursos);
