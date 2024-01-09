@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ta23+gcpMG/QH6UMIzpkV4SbaEjPwCIn7FM1+2qV/YhHYKtff3s6X1le9uvPISO4X5fqCt0xQial6jps7G2hTg==",
+  "dgSpecHash": "xdst1mQ0xGWWGBnNNJW67S2IsDbnwrfqSwzlvIjtC9s6UWD6MbgA9ZM7Oc7rbfVure5ReCTtU2n85cz5SzWc2w==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CadastroEscolar\\CadastroEscolar.csproj",
+  "projectFilePath": "C:\\dev\\Cadastro-Escolar\\CadastroEscolar\\CadastroEscolar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
